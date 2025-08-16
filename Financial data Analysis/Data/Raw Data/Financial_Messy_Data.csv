@@ -1,0 +1,501 @@
+Date,Category,Vendor,Amount,Payment Method
+2025-05-18 00:00:00,Salaries,Contractor,4237.03,Bank Transfer
+2025-05-29 00:00:00,Salaries,Employee Reimbursement,3079.62, PayPal  
+2025-01-22 00:00:00,Software,Amazon,1540.92,PayPal
+2025-05-05 00:00:00,Utilities,Employee Reimbursement,2448.62, Credit Card  
+2025-03-12 00:00:00,Maintenance,Staples,4401.83,Credit Card
+2025-07-11 00:00:00,Office Supplies,Contractor,111.92,Bank Transfer
+2025-01-31 00:00:00,Salaries,Shell,3779.33,Credit Card
+2025-04-18 00:00:00,Utilities,Amazon,2060.0,Cash
+2025-01-21 00:00:00,Meals & Entertainment,Uber,4850.77,Cash
+2025-07-24 00:00:00,Maintenance,Local Vendor,4792.15,PayPal
+2025-03-07 00:00:00,Maintenance,Local Vendor,4619.04,Cheque
+2025-03-02 00:00:00,Utilities,Staples,714.74,Cheque
+2025-06-08 00:00:00,Software,Staples,2939.26,Credit Card
+2025-06-03 00:00:00,Meals & Entertainment,Local Vendor,4110.71,Credit Card
+2025-03-06 00:00:00,Miscellaneous,Contractor,3959.43,Cheque
+2025-03-10 00:00:00,Software,Uber,4794.85,Cash
+2025-05-31 00:00:00,Utilities,Contractor,107.07,Bank Transfer
+2025-03-07 00:00:00,Travel,Amazon,3377.25,PayPal
+2025-03-17 00:00:00,Office Supplies,Shell,2865.54,Cheque
+2025-05-08 00:00:00,,Local Vendor,Error,Credit Card
+2025-02-18 00:00:00,Salaries,Uber,380.57,Credit Card
+2025-05-12 00:00:00,Travel,Shell,2109.46,Cash
+2025-02-16 00:00:00,,Amazon,1621.74,Cheque
+2025-01-09 00:00:00,Salaries,,4629.88,Cheque
+2025-03-23 00:00:00,Miscellaneous,Shell,4042.36,PayPal
+2025-06-03 00:00:00,,Staples,4468.74,Cheque
+2025-05-21 00:00:00,Salaries,Uber,452.7,Credit Card
+2025-05-29 00:00:00,Salaries,Contractor,2904.85,Credit Card
+2025-05-05 00:00:00,Utilities,Uber,2582.9,Cash
+2025-05-20 00:00:00,Travel,Amazon,4902.99,Cash
+2025-01-29 00:00:00,Office Supplies,Adobe,4774.45,Credit Card
+2025-06-18 00:00:00,Software,Staples,4092.65,Credit Card
+2025-06-05 00:00:00,Travel,Uber,4093.32,Bank Transfer
+2025-06-06 00:00:00,Salaries,Uber,,Cheque
+2025-03-31 00:00:00,Travel,Employee Reimbursement,844.08,Cash
+2025-02-05 00:00:00,Meals & Entertainment,Contractor,4216.81,Credit Card
+2025-06-14 00:00:00,Office Supplies,,2847.46,PayPal
+2025-05-12 00:00:00,Maintenance,Employee Reimbursement,4156.74,Credit Card
+2025-01-13 00:00:00,Meals & Entertainment,Shell,4924.4,Cheque
+2025-05-03 00:00:00,Salaries,Employee Reimbursement,4172.28,Credit Card
+2025-07-14 00:00:00,Miscellaneous,Employee Reimbursement,946.12,PayPal
+2025-02-07 00:00:00,Travel,Contractor,936.42,Credit Card
+2025-05-15 00:00:00,,Local Vendor,2014.39,Bank Transfer
+2025-01-10 00:00:00,Salaries,Staples,2673.07,Credit Card
+2025-06-05 00:00:00,Salaries,Amazon,450.41,Bank Transfer
+2025-06-07 00:00:00,Salaries,Uber,2243.19,Bank Transfer
+2025-02-11 00:00:00,Salaries,Amazon,1217.23,PayPal
+2025-07-27 00:00:00,Travel,Local Vendor,1390.73,Bank Transfer
+2025-03-23 00:00:00,Miscellaneous,Employee Reimbursement,4106.15,Bank Transfer
+2025-05-30 00:00:00,Utilities,Staples,NULL,PayPal
+2025-03-06 00:00:00,Office Supplies,Uber,2335.5,Cash
+2025-03-21 00:00:00,Salaries,,129.41,Cheque
+2025-07-09 00:00:00,,Amazon,724.8,PayPal
+2025-05-08 00:00:00,Maintenance,Local Vendor,Error,Credit Card
+2025-01-20 00:00:00,Miscellaneous,Employee Reimbursement,1490.11,Bank Transfer
+2025-06-03 00:00:00,Travel,Shell,1987.3,PayPal
+2025-02-18 00:00:00,Office Supplies,Staples,2174.67,Cheque
+2025-06-22 00:00:00,Maintenance,Local Vendor,3040.23,Cheque
+2025-07-12 00:00:00,Maintenance,Employee Reimbursement,245.33,Credit Card
+2025-07-12 00:00:00,Utilities,Shell,4563.68,Credit Card
+2025-03-20 00:00:00,Office Supplies,Shell,3000.58,PayPal
+2025-04-09 00:00:00,Software,Staples,2142.82,Cash
+2025-03-22 00:00:00,Utilities,Employee Reimbursement,1083.24,PayPal
+2025-05-23 00:00:00,Maintenance,Local Vendor,1161.02,Credit Card
+2025-02-04 00:00:00,Travel,Local Vendor,2386.26,Bank Transfer
+18-03-2025,Office Supplies,Uber,3565.41,Cheque
+2025-01-04 00:00:00,Office Supplies,,4331.86,Cash
+2025-01-27 00:00:00,Office Supplies,Uber,1203.53,Cash
+2025-03-16 00:00:00,,Amazon,4035.92,PayPal
+2025-04-16 00:00:00,Office Supplies,Local Vendor,979.42,Credit Card
+2025-06-27 00:00:00,Maintenance,Staples,2394.28,PayPal
+2025-07-25 00:00:00,Maintenance,Local Vendor,3638.51,Bank Transfer
+2025-03-07 00:00:00,Travel,Uber,4655.82,Cheque
+2025-04-01 00:00:00,Salaries,,993.42,Credit Card
+2025-07-21 00:00:00,Software,Uber,3833.27,Cheque
+2025-07-13 00:00:00,Miscellaneous,Employee Reimbursement,3476.33,PayPal
+2025-05-13 00:00:00,Software,Contractor,4624.44,Bank Transfer
+2025-05-06 00:00:00,Salaries,Shell,1112.1,PayPal
+2025-07-16 00:00:00,Maintenance,Amazon,1805.92,Cheque
+2025-06-26 00:00:00,Salaries,Staples,3771.07,Credit Card
+2025-05-29 00:00:00,Office Supplies,,1651.95,Bank Transfer
+2025-06-25 00:00:00,Office Supplies,Amazon,2580.76,PayPal
+2025-01-31 00:00:00,Utilities,Shell,,Credit Card
+2025-07-21 00:00:00,Travel,Local Vendor,870.69,Credit Card
+2025-06-14 00:00:00,Meals & Entertainment,Contractor,1013.44,PayPal
+2025-05-07 00:00:00,,Adobe,3044.95,Credit Card
+2025-07-03 00:00:00,Maintenance,Uber,850.24,Bank Transfer
+2025-03-10 00:00:00,Salaries,Shell,N/A,Cheque
+2025-02-01 00:00:00,Meals & Entertainment,Shell,254.98,PayPal
+2025-05-08 00:00:00,Travel,Staples,4208.48,Cash
+2025-03-24 00:00:00,Utilities,Uber,1696.89,Cheque
+2025-06-06 00:00:00,Miscellaneous,Adobe,3931.01,Bank Transfer
+2025-07-03 00:00:00,Meals & Entertainment,Local Vendor,3574.84,Cash
+2025-05-12 00:00:00,Office Supplies,Employee Reimbursement,4079.81,Bank Transfer
+2025-04-18 00:00:00,Maintenance,Staples,2752.07,Credit Card
+2025-02-02 00:00:00,Salaries,Local Vendor,2204.85,Cheque
+2025-03-13 00:00:00,Utilities,Adobe,2710.5,Cash
+2025-05-27 00:00:00,,Employee Reimbursement,4759.37,Bank Transfer
+2025-04-19 00:00:00,Utilities,Employee Reimbursement,1645.95,PayPal
+2025-06-18 00:00:00,Maintenance,Employee Reimbursement,1378.35,PayPal
+2025-07-26 00:00:00,Miscellaneous,Shell,2717.42,Credit Card
+2025-02-15 00:00:00,Office Supplies,Contractor,4289.9,PayPal
+2025-02-04 00:00:00,Travel,Amazon,428.8,Cash
+03/12/2025,Maintenance,Employee Reimbursement,4510.9,Cheque
+2025-02-17 00:00:00,Utilities,Uber,338.22,Bank Transfer
+2025-04-23 00:00:00,Miscellaneous,Adobe,4557.28,Cash
+2025-03-21 00:00:00,Software,Staples,2264.26,Bank Transfer
+2025-02-18 00:00:00,Maintenance,Adobe,3932.99,Bank Transfer
+2025-01-02 00:00:00,,Employee Reimbursement,4755.53,Credit Card
+2025-07-02 00:00:00,Meals & Entertainment,Uber,91.08,PayPal
+2025-05-07 00:00:00,Utilities,Uber,4298.49,Cash
+2025-03-08 00:00:00,Maintenance,Employee Reimbursement,3072.54, PayPal  
+2025-02-16 00:00:00,Software,,3982.39,Bank Transfer
+2025-01-04 00:00:00,Maintenance,Adobe,3914.71,Cash
+2025-02-14 00:00:00,Office Supplies,Adobe,3947.3,Cash
+2025-03-29 00:00:00,Maintenance,Staples,,Bank Transfer
+2025-01-05 00:00:00,Utilities,,4582.29, Credit Card  
+2025-03-07 00:00:00,Meals & Entertainment,Uber,2295.05,Cash
+2025-01-15 00:00:00,Office Supplies,Contractor,,Credit Card
+2025-04-04 00:00:00,Software,Shell,1390.8,PayPal
+2025-03-23 00:00:00,Software,,1007.04,Cash
+2025-07-11 00:00:00,Miscellaneous,Shell,763.23, Cheque  
+05-05-2025,Utilities,Adobe,558.22,Credit Card
+2025-01-13 00:00:00,Maintenance,Employee Reimbursement,3477.58,Credit Card
+2025-05-17 00:00:00,Miscellaneous,Shell,2574.11,Bank Transfer
+2025-01-22 00:00:00,Software,Adobe,,Cash
+2025-07-10 00:00:00,Meals & Entertainment,Amazon,1518.52,Credit Card
+2025-07-16 00:00:00,Travel,Adobe,1364.23,PayPal
+2025-01-06 00:00:00,Travel,Staples,4887.58,Bank Transfer
+2025-03-29 00:00:00,Software,Shell,1621.1,Cash
+2025-03-15 00:00:00,Salaries,Staples,1920.29,Bank Transfer
+2025-06-17 00:00:00,Office Supplies,Amazon,58.03,Cash
+2025-05-27 00:00:00,Travel,Uber,4732.01,PayPal
+2025-04-08 00:00:00,Utilities,Employee Reimbursement,2778.05,Cash
+2025-03-09 00:00:00,Travel,Employee Reimbursement,996.62,PayPal
+2025-01-06 00:00:00,Meals & Entertainment,Uber,2447.2,Credit Card
+2025-01-22 00:00:00,Miscellaneous,Adobe,988.69,Bank Transfer
+2025-01-21 00:00:00,,Local Vendor,1634.91,PayPal
+2025-04-02 00:00:00,Maintenance,Staples,3022.95,Bank Transfer
+2025-01-05 00:00:00,Software,Shell,4840.97,Credit Card
+2025-07-08 00:00:00,Travel,Amazon,3269.66,Cash
+2025-05-20 00:00:00,Salaries,Local Vendor,3293.55,Bank Transfer
+2025-05-31 00:00:00,Maintenance,Local Vendor,3539.7,PayPal
+2025-02-28 00:00:00,Software,Contractor,1789.42,Bank Transfer
+2025-03-16 00:00:00,Maintenance,Amazon,2600.1,Bank Transfer
+2025-05-26 00:00:00,Meals & Entertainment,Shell,2765.04,Credit Card
+2025-07-28 00:00:00,Meals & Entertainment,Staples,3675.74,Cash
+01/28/2025,Travel,Shell,4228.27,Cheque
+2025-02-09 00:00:00,Maintenance,Uber,2822.91,PayPal
+2025-01-10 00:00:00,Salaries,Local Vendor,4963.77,PayPal
+2025-07-21 00:00:00,Salaries,Uber,597.24,PayPal
+2025-05-08 00:00:00,Salaries,Adobe,196.57,Credit Card
+2025-03-23 00:00:00,Software,Amazon,3024.18,Bank Transfer
+2025-01-02 00:00:00,Miscellaneous,Adobe,1176.84,PayPal
+2025-07-14 00:00:00,Salaries,Shell,375.12,Credit Card
+2025-03-28 00:00:00,Utilities,Adobe,Error,PayPal
+2025-02-07 00:00:00,Meals & Entertainment,Employee Reimbursement,2875.13,Cheque
+2025-02-11 00:00:00,Maintenance,,2769.84,Credit Card
+2025-03-17 00:00:00,Miscellaneous,Amazon,4610.85,PayPal
+2025-02-28 00:00:00,Salaries,Amazon,4851.5,Bank Transfer
+2025-04-24 00:00:00,Miscellaneous,Employee Reimbursement,4303.09,Cash
+2025-02-06 00:00:00,Office Supplies,Local Vendor,4157.97,Cash
+2025-07-21 00:00:00,Software,Local Vendor,4774.1,PayPal
+2025-04-12 00:00:00,Utilities,Amazon,333.7,PayPal
+2025-02-25 00:00:00,Software,Adobe,3820.72,PayPal
+2025-03-16 00:00:00,,Staples,1794.01,PayPal
+2025-07-22 00:00:00,Salaries,,1947.0,Cash
+2025-03-21 00:00:00,Miscellaneous,,1310.23,PayPal
+2025-04-30 00:00:00,Salaries,Local Vendor,3797.75,Bank Transfer
+2025-02-09 00:00:00,Travel,Uber,2664.52,Credit Card
+2025-03-08 00:00:00,Travel,Shell,1798.58,PayPal
+2025-07-18 00:00:00,Travel,Shell,734.76,Bank Transfer
+2025-01-28 00:00:00,Utilities,Uber,265.89,Cash
+2025-01-26 00:00:00,Office Supplies,Amazon,2929.75,Bank Transfer
+2025-05-24 00:00:00,Software,Shell,4964.01,Cheque
+2025-05-31 00:00:00,Salaries,Uber,4180.33,Cash
+2025-03-25 00:00:00,Software,Staples,4687.0,PayPal
+2025-07-12 00:00:00,Miscellaneous,Adobe,1554.97,Cheque
+2025-06-05 00:00:00,Travel,Contractor,596.23,Credit Card
+2025-05-11 00:00:00,Salaries,Local Vendor,4485.06,PayPal
+2025-06-28 00:00:00,Utilities,Employee Reimbursement,856.79,Credit Card
+2025-04-02 00:00:00,Miscellaneous,Shell,3315.71,Credit Card
+2025-03-17 00:00:00,Office Supplies,Contractor,463.33,Cheque
+2025-07-10 00:00:00,Miscellaneous,Contractor,140.23,Credit Card
+2025-04-09 00:00:00,Salaries,Amazon,4328.07,PayPal
+2025-05-15 00:00:00,Meals & Entertainment,Employee Reimbursement,4507.95,Credit Card
+2025-02-17 00:00:00,Maintenance,Shell,4855.82,Bank Transfer
+2025-04-21 00:00:00,Meals & Entertainment,Contractor,4065.4,Cash
+2025-06-27 00:00:00,Miscellaneous,Amazon,4789.18,PayPal
+2025-06-28 00:00:00,Salaries,Contractor,899.66,Credit Card
+2025-04-02 00:00:00,Miscellaneous,Staples,3667.44,PayPal
+2025-03-16 00:00:00,Software,Adobe,4584.4,Credit Card
+2025-07-30 00:00:00,Office Supplies,Uber,179.14,PayPal
+2025-05-28 00:00:00,,Local Vendor,128.46,Cash
+02/10/2025,Meals & Entertainment,Local Vendor,3451.42,Cash
+2025-02-03 00:00:00,Software,Uber,2596.92,PayPal
+2025-06-11 00:00:00,Office Supplies,Staples,1600.58,Bank Transfer
+2025-07-17 00:00:00,Office Supplies,Staples,73.05,PayPal
+2025-03-26 00:00:00,Salaries,Shell,1692.41,PayPal
+2025-02-03 00:00:00,Software,Employee Reimbursement,2672.15,Cash
+2025-07-03 00:00:00,Meals & Entertainment,Contractor,1603.49,Credit Card
+2025-07-08 00:00:00,Miscellaneous,Local Vendor,1892.61,Credit Card
+2025-07-03 00:00:00,Utilities,Adobe,1570.52,Cash
+2025-03-20 00:00:00,Office Supplies,Adobe,4518.79,Cash
+2025-05-09 00:00:00,Salaries,Local Vendor,2353.97,PayPal
+2025-06-28 00:00:00,Travel,Local Vendor,752.05,Bank Transfer
+2025-06-05 00:00:00,Utilities,Uber,1230.67,Cash
+2025-01-19 00:00:00,Miscellaneous,Contractor,2878.49,Cash
+2025-03-06 00:00:00,Travel,Adobe,3100.68,Cheque
+2025-07-22 00:00:00,,Adobe,4099.9,PayPal
+2025-07-08 00:00:00,Travel,,1242.36,Bank Transfer
+2025-03-28 00:00:00,Meals & Entertainment,Uber,1462.3,Cheque
+2025-02-27 00:00:00,Travel,Staples,2151.52,Cheque
+2025-05-04 00:00:00,Miscellaneous,Local Vendor,3117.76,Credit Card
+2025-01-21 00:00:00,Maintenance,,1697.11,Cash
+2025-01-30 00:00:00,Salaries,Uber,1775.2,Cash
+2025-07-14 00:00:00,Maintenance,Contractor,4921.93,PayPal
+2025-01-02 00:00:00,Utilities,Uber,366.3,Credit Card
+2025-03-08 00:00:00,Maintenance,Uber,4752.22,Bank Transfer
+2025-06-21 00:00:00,Maintenance,Local Vendor,1968.82,Cash
+2025-04-09 00:00:00,Office Supplies,,2097.84,Cheque
+2025-07-27 00:00:00,Meals & Entertainment,Shell,412.84,Bank Transfer
+2025-01-12 00:00:00,Travel,Shell,4231.75,PayPal
+2025-03-07 00:00:00,Meals & Entertainment,Employee Reimbursement,2838.5,PayPal
+2025-02-06 00:00:00,Salaries,Contractor,832.35,Credit Card
+2025-02-16 00:00:00,,Amazon,891.19,Bank Transfer
+2025-07-15 00:00:00,Software,Employee Reimbursement,490.04,Credit Card
+06/29/2025,Office Supplies,Staples,3917.68,Cash
+2025-07-19 00:00:00,Office Supplies,Contractor,2597.34,PayPal
+2025-06-13 00:00:00,Utilities,Amazon,4775.8,PayPal
+2025-06-16 00:00:00,Salaries,Shell,897.24,Cheque
+2025-04-12 00:00:00,Meals & Entertainment,Adobe,973.64,Cheque
+2025-06-12 00:00:00,Miscellaneous,Uber,4876.14,PayPal
+2025-01-28 00:00:00,Travel,Employee Reimbursement,Error,PayPal
+2025-02-25 00:00:00,Maintenance,Uber,3794.58,Credit Card
+2025-06-25 00:00:00,Travel,Employee Reimbursement,1608.6,Cheque
+2025-06-26 00:00:00,Salaries,Shell,4523.39,Bank Transfer
+2025-01-09 00:00:00,Salaries,Staples,3737.55,Bank Transfer
+2025-05-03 00:00:00,Salaries,Employee Reimbursement,3475.57,Cheque
+2025-05-19 00:00:00,Salaries,Amazon,1409.61,PayPal
+2025-01-16 00:00:00,Office Supplies,Contractor,4261.72,Bank Transfer
+2025-05-15 00:00:00,Salaries,Local Vendor,3355.93,Cheque
+2025-05-12 00:00:00,Travel,Amazon,1904.95,Credit Card
+2025-01-26 00:00:00,Maintenance,Staples,4945.58,Credit Card
+2025-02-19 00:00:00,Maintenance,Employee Reimbursement,551.14,PayPal
+2025-01-02 00:00:00,,Contractor,3889.51,Cash
+2025-01-14 00:00:00,Utilities,Shell,513.01,PayPal
+2025-04-04 00:00:00,Meals & Entertainment,Uber,NULL,Cash
+2025-02-02 00:00:00,Meals & Entertainment,Staples,3733.4,PayPal
+2025-07-06 00:00:00,Utilities,Shell,296.55,Credit Card
+2025-01-08 00:00:00,Maintenance,Amazon,,PayPal
+2025-02-27 00:00:00,Salaries,Staples,2447.32,PayPal
+2025-05-28 00:00:00,Utilities,Staples,1159.31,Cash
+2025-03-12 00:00:00,Office Supplies,Shell,N/A,Cheque
+2025-01-23 00:00:00,Maintenance,Amazon,2443.77,Credit Card
+2025-05-28 00:00:00,Maintenance,Shell,N/A,Cash
+2025-01-16 00:00:00,Maintenance,Amazon,3891.66,Credit Card
+2025-05-25 00:00:00,Travel,Local Vendor,723.8,Cheque
+2025-04-27 00:00:00,Utilities,,881.52,Bank Transfer
+2025-03-10 00:00:00,Travel,Uber,2597.3,PayPal
+2025-05-25 00:00:00,Software,Adobe,2544.1,PayPal
+09-07-2025,Utilities,Local Vendor,2222.04,Credit Card
+2025-04-06 00:00:00,Meals & Entertainment,Staples,3171.65,Cash
+2025-03-29 00:00:00,Software,Amazon,452.89,PayPal
+2025-05-08 00:00:00,Miscellaneous,Amazon,2808.64,PayPal
+2025-07-19 00:00:00,,Shell,2148.16,Cheque
+2025-06-21 00:00:00,Salaries,Contractor,4193.02,Cash
+2025-05-28 00:00:00,Salaries,Uber,4718.38,Credit Card
+2025-03-10 00:00:00,Software,Adobe,545.23,PayPal
+2025-03-05 00:00:00,Salaries,Contractor,1164.27,Cash
+2025-06-09 00:00:00,Travel,Adobe,1649.09,Bank Transfer
+2025-02-12 00:00:00,Travel,Adobe,2697.67,Cheque
+2025-05-13 00:00:00,Utilities,Uber,3845.78,Cheque
+2025-03-29 00:00:00,Miscellaneous,Shell,3973.69,Bank Transfer
+2025-01-14 00:00:00,Utilities,Shell,882.81, Cash  
+2025-01-15 00:00:00,Office Supplies,Adobe,N/A,Cheque
+2025-02-10 00:00:00,Software,Adobe,4119.34,Credit Card
+2025-04-21 00:00:00,Miscellaneous,Amazon,3322.36,Bank Transfer
+2025-03-17 00:00:00,Miscellaneous,Local Vendor,,Cheque
+2025-03-23 00:00:00,Office Supplies,Employee Reimbursement,2012.49,Cash
+2025-01-04 00:00:00,Salaries,Amazon,4933.04,Cheque
+2025-05-27 00:00:00,Miscellaneous,Contractor,894.34,Credit Card
+2025-01-31 00:00:00,Meals & Entertainment,Adobe,NULL,Cheque
+2025-06-14 00:00:00,Maintenance,Employee Reimbursement,4313.04,Cheque
+2025-04-23 00:00:00,,Uber,305.2,Cash
+2025-02-11 00:00:00,Software,Amazon,3666.99,Credit Card
+2025-02-06 00:00:00,Software,Shell,,Cash
+2025-02-09 00:00:00,Travel,Staples,360.17,Cheque
+2025-06-25 00:00:00,Miscellaneous,Uber,3475.93,Credit Card
+2025-04-01 00:00:00,Software,Local Vendor,4886.91,Cheque
+2025-03-15 00:00:00,Miscellaneous,Amazon,1655.42,Bank Transfer
+2025-06-25 00:00:00,Meals & Entertainment,Amazon,1756.9,Cheque
+2025-07-05 00:00:00,Office Supplies,Local Vendor,863.65,Credit Card
+2025-04-25 00:00:00,Travel,Local Vendor,2317.52,Credit Card
+2025-02-28 00:00:00,Salaries,Local Vendor,4000.17,Cash
+2025-02-26 00:00:00,Travel,Shell,818.08,Cash
+2025-03-22 00:00:00,Salaries,Contractor,N/A,Credit Card
+2025-05-07 00:00:00,Salaries,Contractor,1937.4,PayPal
+2025-05-08 00:00:00,,Local Vendor,95.23,Bank Transfer
+2025-02-10 00:00:00,Salaries,Local Vendor,4248.97,Credit Card
+2025-01-28 00:00:00,Miscellaneous,Shell,4013.82,PayPal
+2025-01-09 00:00:00,Miscellaneous,Local Vendor,464.07,Bank Transfer
+2025-02-28 00:00:00,Utilities,Amazon,NULL,Bank Transfer
+2025-02-01 00:00:00,Software,Adobe,2449.26,Cheque
+2025-06-09 00:00:00,Office Supplies,Uber,4633.81,Credit Card
+2025-06-03 00:00:00,Utilities,Employee Reimbursement,N/A,Bank Transfer
+2025-07-15 00:00:00,Office Supplies,Adobe,3072.24,Cash
+2025-04-10 00:00:00,Miscellaneous,Uber,2043.83,Cash
+2025-04-22 00:00:00,Utilities,Adobe,3414.65,Cheque
+2025-07-18 00:00:00,,Contractor,N/A,PayPal
+2025-06-09 00:00:00,Travel,Amazon,298.15,Cash
+2025-05-03 00:00:00,Software,Adobe,2581.98,Cheque
+2025-06-11 00:00:00,Utilities,Uber,3939.44,PayPal
+2025-01-09 00:00:00,Meals & Entertainment,,311.24,Cheque
+2025-06-08 00:00:00,Travel,Employee Reimbursement,976.05,Cheque
+2025-02-13 00:00:00,Salaries,Local Vendor,3821.84,Credit Card
+2025-03-28 00:00:00,Software,Local Vendor,2964.23,PayPal
+2025-01-06 00:00:00,Software,Staples,1727.96,Credit Card
+07/15/2025,Software,Adobe,3927.23,PayPal
+2025-05-08 00:00:00,Utilities,,4004.88,PayPal
+2025-03-02 00:00:00,Travel,Contractor,4544.12,PayPal
+2025-01-04 00:00:00,,Staples,3300.53,Cheque
+2025-02-09 00:00:00,Miscellaneous,Contractor,1557.33,Bank Transfer
+2025-07-29 00:00:00,Utilities,Staples,4683.94,PayPal
+2025-04-07 00:00:00,Salaries,Amazon,726.01,Bank Transfer
+2025-03-31 00:00:00,Miscellaneous,Staples,1280.89,Bank Transfer
+2025-04-03 00:00:00,Maintenance,Local Vendor,3014.29,PayPal
+2025-05-08 00:00:00,Office Supplies,Employee Reimbursement,3026.67,PayPal
+2025-05-09 00:00:00,Software,Contractor,578.41,Bank Transfer
+2025-07-16 00:00:00,Travel,Adobe,4620.24,Cheque
+2025-01-01 00:00:00,Office Supplies,Local Vendor,801.49,Cheque
+2025-04-28 00:00:00,Software,Local Vendor,4200.37,PayPal
+2025-06-13 00:00:00,Maintenance,Uber,4245.72,Cash
+2025-04-07 00:00:00,Miscellaneous,Amazon,3462.06,PayPal
+2025-05-07 00:00:00,Meals & Entertainment,Shell,2228.74,PayPal
+2025-06-10 00:00:00,Travel,Adobe,3938.95,Cheque
+2025-05-04 00:00:00,Travel,Uber,688.61,Bank Transfer
+2025-07-17 00:00:00,Salaries,Shell,804.38,PayPal
+2025-01-15 00:00:00,Maintenance,Employee Reimbursement,4502.94,PayPal
+2025-04-28 00:00:00,Maintenance,Amazon,3550.7,Credit Card
+2025-01-22 00:00:00,Meals & Entertainment,Uber,1650.32,Bank Transfer
+2025-01-04 00:00:00,Office Supplies,Uber,4998.53,Credit Card
+2025-04-13 00:00:00,Office Supplies,Shell,4234.9,PayPal
+2025-02-09 00:00:00,Maintenance,Contractor,259.14,Cash
+2025-03-12 00:00:00,Meals & Entertainment,Employee Reimbursement,3042.23,Bank Transfer
+2025-04-01 00:00:00,Travel,,4102.27,Cheque
+2025-04-21 00:00:00,Salaries,Staples,256.49,Cheque
+2025-05-22 00:00:00,Maintenance,Staples,4966.81,Cheque
+2025-03-14 00:00:00,Miscellaneous,Amazon,929.95,Credit Card
+2025-03-22 00:00:00,Meals & Entertainment,Local Vendor,3857.73,Bank Transfer
+2025-06-02 00:00:00,Miscellaneous,Contractor,193.22,Bank Transfer
+2025-06-16 00:00:00,Maintenance,Contractor,1025.65,Credit Card
+2025-01-28 00:00:00,Office Supplies,Amazon,4560.6,Credit Card
+2025-02-17 00:00:00,Utilities,Shell,2950.33,Cash
+2025-05-26 00:00:00,Miscellaneous,Staples,4771.8,Credit Card
+2025-03-08 00:00:00,Utilities,Uber,864.04,PayPal
+2025-01-12 00:00:00,Maintenance,Amazon,1153.13,Cash
+2025-07-09 00:00:00,Travel,Adobe,4821.39,Bank Transfer
+2025-07-05 00:00:00,,Staples,1980.39,Bank Transfer
+2025-03-16 00:00:00,Salaries,Uber,1407.62,PayPal
+2025-07-02 00:00:00,,Amazon,4387.63,Credit Card
+2025-05-24 00:00:00,Utilities,Uber,4697.12,Cash
+2025-04-12 00:00:00,Miscellaneous,Amazon,3615.83,Cash
+2025-07-22 00:00:00,Travel,Contractor,2239.37,Cash
+2025-06-04 00:00:00,Miscellaneous,Amazon,2525.01,Credit Card
+2025-04-27 00:00:00,Travel,Staples,3553.9,Credit Card
+2025-07-30 00:00:00,Salaries,Local Vendor,1248.61,Cheque
+2025-01-28 00:00:00,Salaries,Employee Reimbursement,4055.54,Cash
+2025-06-14 00:00:00,Software,Staples,4429.16,Cheque
+2025-02-23 00:00:00,Software,Shell,924.33,Cash
+2025-07-19 00:00:00,Meals & Entertainment,Contractor,3403.82,PayPal
+2025-04-27 00:00:00,Meals & Entertainment,Amazon,1845.65,Cheque
+2025-04-04 00:00:00,Travel,Contractor,3588.6,Bank Transfer
+2025-02-08 00:00:00,Software,Staples,1684.3,Bank Transfer
+2025-04-16 00:00:00,Salaries,Local Vendor,2527.05,Cash
+2025-01-04 00:00:00,Utilities,Uber,1050.98,Credit Card
+2025-07-02 00:00:00,Meals & Entertainment,,1537.08,PayPal
+2025-05-09 00:00:00,Utilities,Shell,2757.5,Cash
+2025-06-06 00:00:00,Travel,Amazon,203.65,Bank Transfer
+2025-03-08 00:00:00,Meals & Entertainment,Adobe,3841.45,PayPal
+2025-01-13 00:00:00,Office Supplies,Staples,1433.72,Credit Card
+2025-01-14 00:00:00,Software,Adobe,4792.95,Bank Transfer
+2025-07-15 00:00:00,Utilities,Shell,2891.6,PayPal
+2025-04-16 00:00:00,Office Supplies,Staples,4459.66,PayPal
+2025-01-17 00:00:00,Travel,Contractor,2881.82,PayPal
+2025-07-20 00:00:00,Office Supplies,Staples,4445.74,Bank Transfer
+2025-05-12 00:00:00,Meals & Entertainment,Uber,2844.55,Credit Card
+2025-04-10 00:00:00,Meals & Entertainment,Staples,887.25,Credit Card
+2025-07-07 00:00:00,Miscellaneous,Shell,2525.07,Bank Transfer
+2025-01-17 00:00:00,Meals & Entertainment,Contractor,1892.96,Bank Transfer
+2025-07-19 00:00:00,Software,Contractor,512.04,Bank Transfer
+2025-05-30 00:00:00,Software,Staples,1070.99,Cash
+2025-05-11 00:00:00,Salaries,Amazon,3488.11,PayPal
+2025-03-13 00:00:00,Maintenance,Shell,2832.78,Cash
+2025-05-16 00:00:00,Software,Uber,1125.79,Cheque
+2025-01-05 00:00:00,Salaries,,1210.89,Cheque
+2025-07-17 00:00:00,Office Supplies,Employee Reimbursement,395.5,PayPal
+2025-01-17 00:00:00,Software,Contractor,4562.72,Bank Transfer
+2025-04-07 00:00:00,Travel,Amazon,4010.82,Bank Transfer
+2025-06-09 00:00:00,Office Supplies,Uber,752.07,Cash
+2025-06-06 00:00:00,Travel,Local Vendor,4778.94,Credit Card
+2025-06-06 00:00:00,Office Supplies,Employee Reimbursement,4393.11,Cheque
+2025-06-08 00:00:00,Office Supplies,Shell,4166.99,Bank Transfer
+2025-01-01 00:00:00,Office Supplies,Uber,4346.2,PayPal
+2025-04-20 00:00:00,Utilities,Local Vendor,3887.14,Credit Card
+2025-06-19 00:00:00,Travel,Local Vendor,2438.13,Cash
+2025-05-12 00:00:00,Travel,Employee Reimbursement,3737.3,Cash
+2025-01-16 00:00:00,Maintenance,Amazon,2962.89,Credit Card
+2025-03-10 00:00:00,Software,Shell,3676.9,Credit Card
+2025-01-05 00:00:00,Travel,Contractor,795.93,PayPal
+2025-02-21 00:00:00,Salaries,Employee Reimbursement,2245.16,Cheque
+2025-04-20 00:00:00,Meals & Entertainment,,4981.44,Cheque
+2025-04-29 00:00:00,Maintenance,Staples,1285.56,Credit Card
+2025-06-14 00:00:00,Travel,Employee Reimbursement,Error,Cash
+2025-01-28 00:00:00,Meals & Entertainment,,3069.9,Credit Card
+2025-05-31 00:00:00,Salaries,Amazon,1114.84,Bank Transfer
+2025-03-31 00:00:00,Travel,Contractor,4875.15,PayPal
+2025-06-27 00:00:00,Maintenance,Amazon,NULL,Bank Transfer
+2025-07-11 00:00:00,Utilities,Amazon,4031.82,Cheque
+2025-05-31 00:00:00,Software,Employee Reimbursement,4486.28,Cash
+2025-04-21 00:00:00,Office Supplies,Amazon,999.07,PayPal
+2025-01-13 00:00:00,Utilities,Contractor,527.12,Cheque
+2025-06-22 00:00:00,Maintenance,Staples,3674.85,PayPal
+2025-04-17 00:00:00,Meals & Entertainment,Amazon,4617.29,PayPal
+2025-06-11 00:00:00,Meals & Entertainment,Staples,3024.97,Bank Transfer
+2025-01-02 00:00:00,Software,Uber,553.42,Cheque
+2025-07-06 00:00:00,Salaries,Staples,4767.14,Cash
+2025-01-31 00:00:00,Travel,Amazon,3010.77,Bank Transfer
+2025-03-25 00:00:00,Maintenance,Amazon,2509.04,Cheque
+2025-01-31 00:00:00,Miscellaneous,Contractor,650.25,Credit Card
+2025-06-16 00:00:00,Software,Uber,4001.85,Cheque
+2025-06-07 00:00:00,Software,Staples,439.21,Cheque
+2025-01-03 00:00:00,Travel,Contractor,Error,Cheque
+2025-02-09 00:00:00,Software,Adobe,749.23,PayPal
+2025-07-16 00:00:00,Meals & Entertainment,Contractor,1754.86,Credit Card
+2025-06-10 00:00:00,Utilities,Local Vendor,2216.25,Cash
+2025-01-02 00:00:00,Meals & Entertainment,Amazon,3959.31,Cash
+2025-04-17 00:00:00,Miscellaneous,Contractor,4225.06,Bank Transfer
+2025-02-15 00:00:00,Salaries,Local Vendor,4146.62,Bank Transfer
+2025-07-05 00:00:00,Utilities,Shell,NULL,Cheque
+2025-07-21 00:00:00,Maintenance,Uber,2493.17,Credit Card
+2025-07-15 00:00:00,Maintenance,Contractor,4913.81,Credit Card
+2025-05-18 00:00:00,Maintenance,Shell,3817.0,Credit Card
+2025-02-15 00:00:00,Office Supplies,Amazon,2179.08,PayPal
+2025-03-03 00:00:00,Salaries,Employee Reimbursement,2418.51,Credit Card
+2025-07-01 00:00:00,Salaries,Adobe,61.23,Cash
+2025-02-04 00:00:00,Software,Local Vendor,1504.0,Cash
+2025-01-09 00:00:00,Salaries,Contractor,4231.54,Bank Transfer
+2025-03-23 00:00:00,Salaries,Amazon,2918.24,PayPal
+2025-04-14 00:00:00,Office Supplies,Adobe,4751.46,Credit Card
+2025-07-21 00:00:00,Software,Amazon,1596.6,Cash
+2025-01-20 00:00:00,Software,Local Vendor,492.94,PayPal
+2025-03-10 00:00:00,Salaries,,3903.43,Credit Card
+2025-07-19 00:00:00,Maintenance,Adobe,3469.99,Cash
+2025-04-02 00:00:00,Office Supplies,Uber,2791.53,Bank Transfer
+2025-07-08 00:00:00,Office Supplies,Adobe,2878.7,PayPal
+2025-04-12 00:00:00,Salaries,Amazon,942.97,Bank Transfer
+03-04-2025,Utilities,Adobe,,Cheque
+2025-06-26 00:00:00,Software,Shell,1148.2,Cash
+2025-03-11 00:00:00,Miscellaneous,Staples,1627.44,Cheque
+2025-02-25 00:00:00,Maintenance,Amazon,91.15,Credit Card
+05-02-2025,Salaries,Amazon,NULL,Bank Transfer
+2025-04-22 00:00:00,Travel,Adobe,864.45,Bank Transfer
+2025-02-09 00:00:00,Office Supplies,Employee Reimbursement,2320.62,Cash
+2025-05-15 00:00:00,Salaries,Shell,2394.09,Cheque
+2025-05-25 00:00:00,,Employee Reimbursement,1827.53,Cash
+2025-04-15 00:00:00,Salaries,Amazon,620.69,Bank Transfer
+2025-01-27 00:00:00,Salaries,Employee Reimbursement,2694.55,Credit Card
+2025-05-10 00:00:00,Software,Uber,1412.23,Cheque
+2025-04-01 00:00:00,Office Supplies,Adobe,4152.15,Bank Transfer
+2025-06-19 00:00:00,Maintenance,Staples,1562.09,PayPal
+2025-06-24 00:00:00,Maintenance,Employee Reimbursement,1970.05,Cash
+2025-01-31 00:00:00,Miscellaneous,Employee Reimbursement,203.76,PayPal
+2025-06-09 00:00:00,,Uber,1403.81,Cash
+2025-05-07 00:00:00,Travel,Employee Reimbursement,2269.75,Bank Transfer
+2025-06-01 00:00:00,Utilities,Staples,757.68,Credit Card
+2025-05-29 00:00:00,Maintenance,Adobe,2906.89,Credit Card
+2025-07-23 00:00:00,Miscellaneous,Employee Reimbursement,2999.23,PayPal
+2025-07-10 00:00:00,Meals & Entertainment,Local Vendor,229.06,Cash
+2025-04-16 00:00:00,Maintenance,Amazon,1137.32,Cash
+2025-07-22 00:00:00,,Local Vendor,3730.62,Cheque
+2025-01-25 00:00:00,Salaries,Shell,2902.44,Cheque
+2025-05-04 00:00:00,Salaries,Employee Reimbursement,67.49,Cash
+2025-03-02 00:00:00,Maintenance,Amazon,2442.85,Cheque
+2025-05-24 00:00:00,Maintenance,,2376.71,Credit Card
+2025-05-28 00:00:00,Utilities,Contractor,4306.02,Bank Transfer
+2025-07-18 00:00:00,Utilities,Staples,737.48,PayPal
+2025-07-25 00:00:00,Meals & Entertainment,Shell,4033.37,Bank Transfer
+2025-02-12 00:00:00,Office Supplies,Amazon,2917.75,Cash
+2025-02-06 00:00:00,Office Supplies,Local Vendor,223.8,Credit Card
+2025-04-15 00:00:00,Utilities,Staples,264.35,PayPal
+2025-05-29 00:00:00,,Staples,590.46,Cash
+2025-07-02 00:00:00,Utilities,Employee Reimbursement,3063.17,Credit Card
+2025-01-10 00:00:00,Maintenance,Adobe,4838.05,Cash
+2025-05-24 00:00:00,Meals & Entertainment,Uber,1495.73,Credit Card
+2025-06-14 00:00:00,Utilities,Amazon,3615.43,PayPal
+2025-02-16 00:00:00,Utilities,Amazon,900.83,Bank Transfer
+2025-06-18 00:00:00,Office Supplies,Uber,2594.79,Credit Card
+2025-05-05 00:00:00,Miscellaneous,Contractor,3840.1,PayPal
+2025-03-02 00:00:00,Meals & Entertainment,Amazon,4471.06,PayPal
