@@ -47,8 +47,3 @@ Financial-Data-Budget-Analysis/
 ## 📥 Excel Report Download  
 ➡️ [Download Financial Report](Financial_data_Analysis/Data/Clean/Financial_DATA.xlsx)  
 
-## ⚙️ How to Run  
-1. Clone this repo  
-   ```bash
-   git clone https://github.com/yourusername/Financial-Data-Budget-Analysis.git
-   cd Financial-Data-Budget-Analysis
