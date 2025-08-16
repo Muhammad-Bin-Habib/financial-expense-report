@@ -34,7 +34,9 @@ Financial-Data-Budget-Analysis/
 ## 📊 Demo Screenshots  
 ![Category Spend](Financial_data_Analysis/Visuals/Category_Wise_Expenses.png)  
 ![Monthly Trends](Financial_data_Analysis/Visuals/Monthly_Expense.png)  
-![Excel Report](Financial_data_Analysis/Data/Clean/Financial_DATA.xlsx)  
+![Payment Method Trends](Financial_data_Analysis/Visuals/Ml.png)  
+![Top Vendors](Financial_data_Analysis/Visuals/Top_Vendors.png)  
+
 
 ## 📈 Key Insights from Analysis  
 - **Category-wise spend breakdown** (Office, Travel, Meals, etc.)  
