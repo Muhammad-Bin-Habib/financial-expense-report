@@ -32,9 +32,9 @@ Financial-Data-Budget-Analysis/
 
 
 ## 📊 Demo Screenshots  
-![Category Spend](Reports and charts/Category Wise Expenses.png)  
-![Monthly Trends](Reports and charts/Monthly Expense.png)  
-![Excel Report](Reports and charts/Financial_DATA.png)  
+![Category Spend](Financial data Analysis/Reports and charts/Category Wise Expenses.png)  
+![Monthly Trends](Financial data Analysis/Reports and charts/Monthly Expense.png)  
+![Excel Report](Financial data Analysis/Reports and charts/Financial_DATA.png)  
 
 ## 📈 Key Insights from Analysis  
 - **Category-wise spend breakdown** (Office, Travel, Meals, etc.)  
@@ -43,7 +43,7 @@ Financial-Data-Budget-Analysis/
 - **Identification of anomalies & irregular transactions**  
 
 ## 📥 Excel Report Download  
-➡️ [Download Financial Report](data/clean/Financial_DATA.csv)  
+➡️ [Download Financial Report](Financial data Analysis/Data/Cleaned Data/Financial_DATA.csv)  
 
 ## ⚙️ How to Run  
 1. Clone this repo  
