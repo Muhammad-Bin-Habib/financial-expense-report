@@ -43,7 +43,7 @@ Financial-Data-Budget-Analysis/
 - **Identification of anomalies & irregular transactions**  
 
 ## 📥 Excel Report Download  
-➡️ [Download Financial Report](Financial data Analysis/Data/Cleaned Data/Financial_DATA.csv)  
+➡️ [Download Financial Report](Financial data Analysis/Data/Cleaned Data/Financial_DATA.xlsx)  
 
 ## ⚙️ How to Run  
 1. Clone this repo  
